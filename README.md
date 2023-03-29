@@ -1,7 +1,7 @@
 ### Bloco de Notas
 Um bloco de notas simples em Python
 
-### Biblioteca utilizada
+### Biblioteca utilizada:
 Tkinter, frequentemente usada para criação de interfaces gráficas.
 <br></br><img src="https://cdn.discordapp.com/attachments/1017542960893673481/1090495698853707776/Python.png" height="163" width="461">
 
