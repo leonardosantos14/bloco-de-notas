@@ -1,5 +1,5 @@
 ### Bloco de Notas
-Um bloco de notas simples em Python
+Um bloco de notas simples em Python.
 
 ### Biblioteca utilizada:
 Tkinter, frequentemente usada para criação de interfaces gráficas.
