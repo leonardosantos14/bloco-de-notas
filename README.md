@@ -7,7 +7,7 @@ Tkinter, frequentemente usada para criação de interfaces gráficas.
 
 ### Funções:
 > <h2>Abrir</h2>
-- Abre um arquivo de texto existente
+- Exibe explorador de arquivos para que selecione um arquivo de texto existente no seu computador em formato ".txt".
 
 > <h2>Salvar</h2>
-- Salva o arquivo de texto com um conteúdo em formato .txt
+- Exibe o explorador de arquivos para que o arquivo de texto seja salvo em um diretório a sua escolha em formato ".txt".
